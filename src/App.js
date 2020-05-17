@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Scott Gibbons
+          Scott Gibbons1
         </a>
       </header>
     </div>
